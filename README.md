@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goli Vinod Kumar</h1>
-<h3 align="center">Passionate Python Developer</h3>
+<h3 align="center">Passionate Python Developer | Frontend Developer | Aspiring Python Engineer & Software Engineer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=codingvinu&label=Profile%20views&color=0e75b6&style=flat" alt="codingvinu" /> 
