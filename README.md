@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **mastersvinod971@gmail.com**
 
+- 📱 Mobile: **+91 9182363967**
+
 - 📄 Know about my experiences [vinod resume.pdf](vinod resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
