@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python Full Stack**
 
-- 🎓 I started **Python Full Stack Course at Codegnan IT Solutions**
+- 🎓 I started **Python Full Stack course at Codegnan IT Solutions**
 
 - 📫 How to reach me **mastersvinod971@gmail.com**
 
