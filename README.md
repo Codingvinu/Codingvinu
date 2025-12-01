@@ -1,25 +1,48 @@
 <h1 align="center">Hi 👋, I'm Goli Vinod Kumar</h1>
 <h3 align="center">Passionate Python Developer | Frontend Developer | Aspiring Python Engineer & Software Engineer</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=codingvinu&label=Profile%20views&color=0e75b6&style=flat" alt="codingvinu" /> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=codingvinu" alt="codingvinu" />
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Python Full Stack**
-- 🎓 I started **Python Full Stack course at Codegnan IT Solutions**
-- 📫 How to reach me: **mastersvinod971@gmail.com**
-- 📱 Mobile: **+91 9182363967**
+---
 
-- 📄 Know about my experiences:  
-  <a href="https://github.com/codingvinu/codingvinu/blob/main/co-resume.pdf" target="_blank">Download My Resume</a>
+### 🌱 I’m currently learning  
+**Python Full Stack**
 
-<h3 align="left">Connect with me:</h3>
+### 🎓 I started  
+**Python Full Stack course at Codegnan IT Solutions**
+
+### 📫 How to reach me  
+**mastersvinod971@gmail.com**
+
+### 📱 Mobile  
+**+91 9182363967**
+
+### 📄 Know about my experiences  
+<p>
+  <a href="https://github.com/codingvinu/codingvinu/blob/main/co-resume.pdf" target="_blank" style="
+    display: inline-block;
+    padding: 10px 18px;
+    background-color: #0366d6;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;">
+    📄 Download My Resume
+  </a>
+</p>
+
+---
+
+## 🔗 Connect with me  
 <p align="left">
 
 <a href="https://twitter.com/vinodkumargoli2" target="_blank">
@@ -36,7 +59,9 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🛠️ Languages and Tools  
 <p align="left"> 
 
   <a href="https://www.python.org" target="_blank">
@@ -69,10 +94,19 @@
 
 </p>
 
+---
+
+## 📊 GitHub Stats  
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingvinu&show_icons=true&locale=en&layout=compact" alt="codingvinu" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingvinu&show_icons=true&layout=compact&hide_border=true" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingvinu&show_icons=true&locale=en" alt="codingvinu" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=codingvinu&show_icons=true&hide_border=true" />
 </p>
+
+<br><br><br><br><br><br>
+
+---
+
