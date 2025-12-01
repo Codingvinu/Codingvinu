@@ -102,15 +102,6 @@
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingvinu&show_icons=true&layout=compact&hide_border=true" />
 </p>
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Vinod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingvinu&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingvinu&layout=compact&hide_border=true&theme=tokyonight)
-
-
 
 <br><br><br><br><br><br>
 
